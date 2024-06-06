@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LABS</string>
+    <string name="titleApp">CEIS320 App</string>
+    <string name="degFah">Degrees Fahrenheit</string>
+    <string name="degCel">Degrees Celsius</string>
+    <string name="degKel">Degrees Kelvin</string>
+    <string name="tempChoose">Choose Your Temperature</string>
+    <string name="convert">Convert</string>
+</resources>

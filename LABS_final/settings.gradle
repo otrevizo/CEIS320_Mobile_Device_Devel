@@ -1,0 +1,2 @@
+rootProject.name = "CEIS320 RedoVer4"
+include ':app'
