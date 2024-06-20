@@ -29,11 +29,17 @@ To make it easier to work on labs, we've set up a VirtualBox Virtual Machine (VM
 
 ## Cloning and Syncing the Repository
 
-#### To clone this repository, run the command:
+#### The VM already has this repository cloned:
 
-git clone (link unavailable)
+This was the command used to clone the repository. No need to run it again in your VM.
+
+git clone CEIS320_Mobile_Device_Devel.git
 
 #### To sync your cloned repository with the latest changes, run:
+
+During class, I will let you know if and when I made any updates foryou to do a pull as follows:
+
+cd ~/GitHub/CEIS320_Mobile_Device_Devel
 
 git pull origin main
 
