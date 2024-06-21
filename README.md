@@ -19,7 +19,7 @@ https://www.youtube.com/playlist?list=PLJgpRhj3_bvGbHviGjE66vAlmcX-LEODV
 You can use a Windows PC, an Apple Mac, or a computer running Linux. You have three options to run Android Studio and do the labs.
 
 <ul>
-<li> CEIS320 Azure Labs: A Virtual Machine (VM) created for each student by the school. This is the official approach. Student receive instructions on Canvas and via email from the school.</li>
+<li> CEIS320 Azure Labs: A Virtual Machine (VM) created for each student by the school. This is the official approach. Students receive instructions on Canvas and via email from the school.</li>
 <li> VirtualBox VM: Use a VM running as host running Linux on your computer.</li>
 <li> Install Android Studio directly on your computer.</li>
 </ul>
