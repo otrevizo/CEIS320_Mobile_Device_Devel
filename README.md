@@ -14,16 +14,13 @@ This GitHub repository contains the lab files and supporting materials for CEIS3
 
 https://www.youtube.com/playlist?list=PLJgpRhj3_bvGbHviGjE66vAlmcX-LEODV
 
-## VirtualBox Virtual Machine (VM)
+## Options to run Android Studio
 
-To make it easier to work on labs, I've set up a VirtualBox Virtual Machine (VM) with all the necessary tools and software.
+<i> CEIS320 Azure Labs: A VM created to you by the school.
+<i> VirtualBox Virtual Machine (VM): Use a VirtualBox Virtual Machine (VM) on Linux and install Android Studio.
+<i> Install ANdroid Studio directly on your computer (Windows, Mac, or Linux)
 
-#### To create the VM from the CEIS320.ova file:
-
-1. Download the CEIS320.ova file from Canvas > CEIS320 > Files.
-2. Open VirtualBox and click on "File" > "Import Appliance".
-3. Select the CEIS320.ova file and follow the prompts to create the VM.
-4. Once the import is complete, start the VM and log in with the provided credentials.
+#### Supplemental YouTube playlist to use VirtualBox:
 
 Consult this YouTube playlist as reference: 
 https://www.youtube.com/playlist?list=PLJgpRhj3_bvE7nm7j9-x24GzVL9lS7wy1
