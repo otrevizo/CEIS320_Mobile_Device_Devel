@@ -31,26 +31,25 @@ https://www.youtube.com/playlist?list=PLJgpRhj3_bvE7nm7j9-x24GzVL9lS7wy1
 
 ## Cloning and Syncing the Repository
 
-#### The VM already has this repository cloned:
+#### Cloning the repository:
 
-This was the command used to clone the repository. No need to run it again in your VM. Do not run these commands in your VM. I already did it for you. I am sharing the commands here as reference, FYI.
+Recommend using a folder named GitHub, but it is up to you.
 
 cd ~/GitHub
-git clone CEIS320_Mobile_Device_Devel.git
+git clone https://github.com/otrevizo/CEIS320_Mobile_Device_Devel.git
 
-#### To sync your cloned repository with the latest changes, run:
+#### Syncing the cloned repository:
 
-During class, I will let you know if and when I made any updates and you will do a pull as follows in your VM:
+During class, I will let you know when I make any updates and you will do a pull as follows in your VM:
 
 cd ~/GitHub/CEIS320_Mobile_Device_Devel
-
 git pull origin main
 
 ## Working on Labs
 
-#### Important:
+Copy the cloned repository (the folder that appears on your computer or VM) to a new directory, for exampe ~/MyLabs on a VM.
 
-Leave the ~/GitHub/CEIS320_Mobile_Device_Devel repository intact and do not modify it. Instead, work on the copied repository in ~/MyLabs.
+Leave the ~/GitHub/CEIS320_Mobile_Device_Devel repository intact, i.e., do not modify it. Instead, work on the copied repository in ~/MyLabs.
 
 The ~/MyLabs folder has all your labs ready for you to work on.
 
