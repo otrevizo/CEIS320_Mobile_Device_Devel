@@ -20,7 +20,7 @@ You can use a Windows PC, an Apple Mac, or a computer running Linux. You have th
 
 <ul>
 <li> CEIS320 Azure Labs: A Virtual Machine (VM) created for each student by the school (FYI, this is the official approach in school).</li>
-<li> VirtualBox VM: Use a VM running as host running Linux on your computer.</li>
+<li> VirtualBox VM: Use a VM running as host running Linux on your computer. Install Android Studio on your VM</li>
 <li> Install Android Studio directly on your computer.</li>
 </ul>
 
