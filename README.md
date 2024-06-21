@@ -16,9 +16,11 @@ https://www.youtube.com/playlist?list=PLJgpRhj3_bvGbHviGjE66vAlmcX-LEODV
 
 ## Options to run Android Studio
 
-<i> CEIS320 Azure Labs: A VM created to you by the school.
-<i> VirtualBox Virtual Machine (VM): Use a VirtualBox Virtual Machine (VM) on Linux and install Android Studio.
-<i> Install ANdroid Studio directly on your computer (Windows, Mac, or Linux)
+<ul>
+<li> CEIS320 Azure Labs: A VM created to you by the school.</li>
+<li> VirtualBox Virtual Machine (VM): Use a VirtualBox Virtual Machine (VM) on Linux and install Android Studio.</li>
+<li> Install ANdroid Studio directly on your computer (Windows, Mac, or Linux)</li>
+</ul>
 
 #### Supplemental YouTube playlist to use VirtualBox:
 
