@@ -14,42 +14,42 @@ This GitHub repository contains the lab files and supporting materials for CEIS3
 
 https://www.youtube.com/playlist?list=PLJgpRhj3_bvGbHviGjE66vAlmcX-LEODV
 
-## VirtualBox Virtual Machine (VM)
+## Options to run Android Studio
 
-To make it easier to work on labs, I've set up a VirtualBox Virtual Machine (VM) with all the necessary tools and software.
+You can use a Windows PC, an Apple Mac, or a computer running Linux. You have three options to run Android Studio and do the labs.
 
-#### To create the VM from the CEIS320.ova file:
+<ul>
+<li> CEIS320 Azure Labs: A Virtual Machine (VM) created for each student by the school (FYI, this is the official approach in school).</li>
+<li> VirtualBox VM: Use a VM running as host running Linux on your computer. Install Java and Android Studio on your VM.</li>
+<li> Install Android Studio directly on your computer.</li>
+</ul>
 
-1. Download the CEIS320.ova file from Canvas > CEIS320 > Files.
-2. Open VirtualBox and click on "File" > "Import Appliance".
-3. Select the CEIS320.ova file and follow the prompts to create the VM.
-4. Once the import is complete, start the VM and log in with the provided credentials.
+#### Supplemental YouTube playlist to use VirtualBox:
 
 Consult this YouTube playlist as reference: 
 https://www.youtube.com/playlist?list=PLJgpRhj3_bvE7nm7j9-x24GzVL9lS7wy1
 
 ## Cloning and Syncing the Repository
 
-#### The VM already has this repository cloned:
+#### Cloning the repository:
 
-This was the command used to clone the repository. No need to run it again in your VM. Do not run these commands in your VM. I already did it for you. I am sharing the commands here as reference, FYI.
+Recommend using a folder named GitHub, but it is up to you.
 
 cd ~/GitHub
-git clone CEIS320_Mobile_Device_Devel.git
+git clone https://github.com/otrevizo/CEIS320_Mobile_Device_Devel.git
 
-#### To sync your cloned repository with the latest changes, run:
+#### Syncing the cloned repository:
 
-During class, I will let you know if and when I made any updates and you will do a pull as follows in your VM:
+During class, I will let you know when I make any updates and you will do a pull as follows in your VM:
 
 cd ~/GitHub/CEIS320_Mobile_Device_Devel
-
 git pull origin main
 
 ## Working on Labs
 
-#### Important:
+Copy the cloned repository (the folder that appears on your computer or VM) to a new directory, for exampe ~/MyLabs on a VM.
 
-Leave the ~/GitHub/CEIS320_Mobile_Device_Devel repository intact and do not modify it. Instead, work on the copied repository in ~/MyLabs.
+Leave the ~/GitHub/CEIS320_Mobile_Device_Devel repository intact, i.e., do not modify it. Instead, work on the copied repository in ~/MyLabs.
 
 The ~/MyLabs folder has all your labs ready for you to work on.
 
