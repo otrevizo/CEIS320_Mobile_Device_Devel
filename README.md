@@ -35,15 +35,19 @@ https://www.youtube.com/playlist?list=PLJgpRhj3_bvE7nm7j9-x24GzVL9lS7wy1
 
 Recommend using a folder named GitHub, but it is up to you.
 
-cd ~/GitHub
-git clone https://github.com/otrevizo/CEIS320_Mobile_Device_Devel.git
+<ul>
+<li>cd ~/GitHub</li>
+<li>git clone https://github.com/otrevizo/CEIS320_Mobile_Device_Devel.git</li>
+</ul>
 
 #### Syncing the cloned repository:
 
 During class, I will let you know when I make any updates and you will do a pull as follows in your VM:
 
-cd ~/GitHub/CEIS320_Mobile_Device_Devel
-git pull origin main
+<ul>
+<li>cd ~/GitHub/CEIS320_Mobile_Device_Devel</li>
+<li></li>git pull origin main</ul>
+</ul>
 
 ## Working on Labs
 
