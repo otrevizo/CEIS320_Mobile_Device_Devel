@@ -46,7 +46,7 @@ During class, I will let you know when I make any updates and you will do a pull
 
 <ul>
 <li>cd ~/GitHub/CEIS320_Mobile_Device_Devel</li>
-<li></li>git pull origin main</ul>
+<li>git pull origin main</li>
 </ul>
 
 ## Working on Labs
